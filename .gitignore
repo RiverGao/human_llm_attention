@@ -1,0 +1,19 @@
+# Ignore Mac system files
+.DS_store/
+
+# ignore .idea
+.idea/
+
+# ignore attention folders
+golden_attention/
+model_attention/
+
+# ignore results
+results/
+
+# ignore data
+sentence_data/
+
+# ignore cache
+**/__pycache__/
+**/understanding_by_attention.zip
